@@ -1,0 +1,226 @@
+@charset "UTF-8";
+body{
+    margin: auto;
+}
+h1{
+    position: absolute;
+    width: 969px;
+    height: 256px;
+    left: 235px;
+    top: 74px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    border-radius: nullpx;
+    /* or 114% */
+
+
+    color: #111111;
+
+}
+
+#id{
+    position: absolute;
+    width: 839px;
+    height: 84px;
+    left: 235px;
+    top: 363px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+
+    color: #555555;
+}
+#id2{
+    position: absolute;
+    width: 303px;
+    height: 20px;
+    left: 235px;
+    top: 480px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+
+    color: #000000;
+}
+#id3{
+
+    position: absolute;
+    width: 226px;
+    height: 16px;
+    left: 235px;
+    top: 512px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    color: #000000;
+
+}
+#id4{
+    position: absolute;
+    width: 691px;
+    height: 160px;
+    left: 375px;
+    top: 623px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+
+    color: #333333;
+}
+hr{
+    position: absolute;
+    width: 1020px;
+    height: 0px;
+    left: 210px;
+    top: 554px;
+
+    border: 1px solid #B0AFAF;
+}
+#id5{
+    position: absolute;
+    width: 675px;
+    height: 192px;
+    left: 382px;
+    top: 797px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* or 120% */
+
+
+    color: #A6130A;
+}
+span{
+    color: #A6130A;
+    font-weight: bold;
+}
+#id6{
+    position: absolute;
+    width: 685px;
+    height: 224px;
+    left: 375px;
+    top: 1014px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+
+    color: #000000;
+}
+#id7{
+    position: absolute;
+    width: 683px;
+    height: 128px;
+    left: 375px;
+    top: 1255px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+
+    color: #333333;
+}
+#id8{
+    position: absolute;
+    width: 422px;
+    height: 32px;
+    left: 375px;
+    top: 1401.15px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+
+
+    color: #333333;
+}
+h2{
+    position: absolute;
+    width: 437px;
+    height: 36px;
+    left: 375px;
+    top: 1465.2px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+    /* identical to box height, or 112% */
+
+
+    color: #111111;
+}
+#id9{
+    position: absolute;
+    width: 669px;
+    height: 224px;
+    left: 375px;
+    top: 1520px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+
+    color: #333333;
+}
+#id10{
+    border-left: 3px solid #A6130A;
+    padding-left: 10px;
+    position: absolute;
+    width: 665px;
+    height: 252px;
+    left: 389px;
+    top: 1766px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    /* or 129% */
+
+
+    color: #333333;
+    padding-bottom: 10px;
+}
